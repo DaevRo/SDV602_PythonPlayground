@@ -12,7 +12,7 @@ for i in range(19):
 
 fizz_buzz activity
 
-part 1
+#part 1
 def fizz_buzz():
       print(0)
       for i in range(1, 16):
@@ -26,7 +26,7 @@ def fizz_buzz():
             print(i)
 fizz_buzz()
 
-part 2
+#part 2
 def fizz_buzz(i = 15):
       x = 1
       print(0)
@@ -42,7 +42,7 @@ def fizz_buzz(i = 15):
         x += 1    
 fizz_buzz()
 
-part 3 
+#part 3 
 def fizz_buzz(i = 15):
         x = 0
         list = []
